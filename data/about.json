@@ -1,0 +1,34 @@
+{
+ "region": "경북 상주시 가장동",
+ "nameEn": "Kyungpook National University Sangju Campus",
+ "added": "2026-10-17",
+ "rank": 54,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "GIMCHEON",
+   "campus": "김천대학교",
+   "km": 26.9
+  },
+  {
+   "code": "KBCH",
+   "campus": "경북보건대학교",
+   "km": 27.0
+  },
+  {
+   "code": "GUMI",
+   "campus": "구미대학교",
+   "km": 28.3
+  },
+  {
+   "code": "MUNGYEONG",
+   "campus": "문경대학교",
+   "km": 31.3
+  },
+  {
+   "code": "KUMOH",
+   "campus": "국립금오공과대학교",
+   "km": 34.0
+  }
+ ]
+}
